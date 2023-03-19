@@ -1,0 +1,67 @@
+body{
+	background-color: white ;
+	margin: 50px;
+	box-shadow: 0 0 30px 10px rgba(0, 0, 0,1);
+	font-family: 'Amatic SC', cursive;
+font-family: 'Rubik Beastly', cursive;
+font-family: 'Rubik Marker Hatch', cursive;
+
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Rubik+Beastly&family=Rubik+Marker+Hatch&display=swap');
+p{
+	color: #fa5c19;
+	font-size: 30px;
+	margin: 40px;
+}
+html{
+	background-color: red;
+}
+h1{
+	color: #d252f2;
+	font-size: 40px;
+	margin: 60px;
+	font-weight: bold;
+	text-align: center;
+}
+a{
+	color: #d252f2;
+	font-size: 30px;
+	margin: 10px;
+	text-decoration: none;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	width: 90%;
+	margin: auto;
+
+	height: 500px;
+	width: 1000px;
+}
+a:hover{
+	color: green;
+	font-size: 45px;
+	text-decoration:underline;
+}
+p:hover{
+	color: purple;
+	font-size: 30px;
+	text-decoration:underline;
+}
+h1:hover{
+	color: green;
+	font-size: 45px;
+	text-decoration:underline;
+}
+img:hover{
+	height: 600px;
+	width: 1200px;
+}
+
+
+
+
+
+
